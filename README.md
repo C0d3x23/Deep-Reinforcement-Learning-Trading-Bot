@@ -32,7 +32,7 @@ Here are some screenshots of the project's progress:
 
 ### Screenshot 1
 
-![Screenshot 1](images/screenshot 1.png)
+([images/screenshot 1.png](https://github.com/C0d3x23/Reinforcement-Learning-For-Trading-Bot/blob/4dd373f8d9ca51fff3f8dab50f9a42181e3039b5/images/screenshot%201.png))
 
 ### Screenshot 2
 
