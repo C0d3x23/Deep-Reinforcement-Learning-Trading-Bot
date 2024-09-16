@@ -30,13 +30,14 @@ Current dependencies being used are
 
 Here are some screenshots of the project's progress:
 
-### Screenshot 1
+### Current Explained Variance
+ Base on what I currently know, an explained variance close to 1, the better. Based on this screenshot, my current model in training
+peak value is at 0.3 which is very low. I also noticed that the chart shows instability.
 
-([images/screenshot 1.png](https://github.com/C0d3x23/Reinforcement-Learning-For-Trading-Bot/blob/4dd373f8d9ca51fff3f8dab50f9a42181e3039b5/images/screenshot%201.png))
+![screenshot 1](https://github.com/user-attachments/assets/101970b4-3e6d-4798-a4be-8a2405d2f4d8)
 
-### Screenshot 2
-
-![Screenshot 2](images/screenshot 2.png)
+### Current Value Loss
+![screenshot 2](https://github.com/user-attachments/assets/1cfb6f49-8089-41dd-a7a7-8830af74765d)
 
 
 Note: As of this writing the model is is still in training. 
